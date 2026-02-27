@@ -1,0 +1,34 @@
+<div class="menu-item">Veg Biryani <span>₹100</span></div>
+</div>
+
+<!-- Special Thali -->
+<div class="menu-category">
+<h3>🍽️ Special Thali</h3>
+<div class="menu-item">Mini Thali <span>₹100</span></div>
+<div class="menu-item">Regular Thali <span>₹150</span></div>
+<div class="menu-item">Special Thali <span>₹220</span></div>
+</div>
+
+<!-- Snacks -->
+<div class="menu-category">
+<h3>🫖 Snacks</h3>
+<div class="menu-item">Samosa <span>₹15</span></div>
+<div class="menu-item">Pakoda <span>₹40</span></div>
+<div class="menu-item">Bread Pakoda <span>₹25</span></div>
+</div>
+
+<!-- Beverages -->
+<div class="menu-category">
+<h3>🥤 Beverages</h3>
+<div class="menu-item">Masala Chai <span>₹10</span></div>
+<div class="menu-item">Cold Drink <span>₹20</span></div>
+<div class="menu-item">Lassi <span>₹40</span></div>
+</div>
+
+<!-- Rajasthan Special -->
+<div class="menu-category">
+<h3>⭐ Rajasthan Special</h3>
+<div class="menu-item">Puri Sabji <span>₹100</span></div>
+<div class="menu-item">Dal Bati <span>₹150</span></div>
+<div class="menu-item">Pav Bhaji <span>₹100</span></div>
+</div>
